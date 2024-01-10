@@ -16,23 +16,33 @@ Date: 2024.01.10
 ## Test Scope and schedule
 
 1. Functional testing
+
 start date: 2024.02.01.
 end date: 2024.02.15
+
 2. Compatibility testing
+
 start date: 2024.02.16
 end date: 2024.02.28
+
 3. Performance testing
+
 start date: 2024.03.01
 end date: 2024.03.15
+
 4. Validation testing
+
 start date: 2024.03.16
 end date: 2024.03.31
 
 ## Test Environment
 
 Devices: iOS and Android smartphones and tablets
+
 Game development: Unity
+
 Cloud hosting: AWS
+
 Database client: MySQL
 
 ## Methodology
@@ -45,13 +55,17 @@ Test levels:
 3. component
 
 Test Completeness:
+
 100% test coverage
+
 All Manual & Automated Test cases executed
+
 All open bugs are fixed or will be fixed in next release
 
 ## Responsibilities
 
 Testing team: Execute test cases, report bugs.
+
 Development team: Address reported issues.
 
 ## Communication

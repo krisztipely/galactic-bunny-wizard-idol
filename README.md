@@ -35,6 +35,11 @@ Galactic Bunny Wizard Idol is an interactive mobile game that combines the mysti
 - [Test Cases](./testcases.md): Describes detailed test cases for each feature.
 - [Test Summary Report](./testsummaryreport.md): Summarizes testing activities, results, and recommendations.
 
+### Defects
+
+- [Defects](./defectreport.md): Provides details about identified defects during testing.
+
+
 ## Getting Started
 
 1. Clone the repository.

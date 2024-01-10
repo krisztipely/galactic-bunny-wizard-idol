@@ -54,4 +54,4 @@ Galactic Bunny Wizard Idol is an interactive mobile game that combines the mysti
 
 ## License
 
-MIT 2024, Krisztina-Ronkainen Lakner
+[MIT](https://github.com/krisztipely/galactic-bunny-wizard-idol/blob/master/LICENSE) 2024, Krisztina-Ronkainen Lakner
